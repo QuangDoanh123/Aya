@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=
+    , initial-scale=1.0"
+    />
+    <style>
+      .abc {
+        padding: 10px;
+        border: 5px solid black;
+        text-align: center;
+      }
+    </style>
+    <title>Bài tập 2</title>
+  </head>
+  <body>
+    <p style="color: brown">
+      Một đoạn văn hay trước hết phải là một đoạn văn viết đúng. Điều này đòi
+      hỏi chúng ta phải xác định đúng yêu cầu của đề bài và làm rõ chủ đề cần
+      được trình bày trong đoạn văn. Trước khi viết, ta cần xác định cách thức
+      trình bày sẽ sử dụng, có thể là quy nạp, diễn dịch, tổng - phân - hợp,
+      hoặc các cách khác phù hợp với nội dung. Để đảm bảo tính mạch lạc và sự
+      kết nối giữa các câu, ta cần xác định trước những nội dung sẽ đề cập trong
+      mở bài, thân bài và kết bài. Mỗi câu văn cần được viết sao cho rõ ràng,
+      gãy gọn và đảm bảo tính logic. Chúng ta cũng nên chú ý sử dụng các biện
+      pháp liên kết như từ nối để tăng tính chặt chẽ giữa các câu văn. Hình thức
+      trình bày cũng là một yếu tố quan trọng. Chúng ta nên áp dụng thụt đầu
+      dòng mỗi đoạn văn, chấm hết câu và viết hoa chữ cái đầu câu để tạo sự rõ
+      ràng và gọn gàng cho bài viết. Qua những điều trên, hy vọng rằng bạn đã
+      hiểu được đoạn văn là gì và những nội dung liên quan. Việc chăm chút từng
+      câu chữ và tạo ra một đoạn văn có ý nghĩa và mạch lạc sẽ giúp bạn viết một
+      bài văn hay hơn. Hãy thực hành và tạo thói quen để ngày càng hoàn thiện kỹ
+      năng viết của mình.
+    </p>
+    <p class="abc">đây là trang web thiên về test các dự án nhỏ</p>
+
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RuGVZl1-y9LRD9J82X7o0XKywcolQGoHoA&s"
+      alt=""
+    />
+    <a href="https://hnmu.edu.vn/">bấm vào đây để vào trang chủ hnmu</a>
+    <ul>
+      <li>Doanh</li>
+      <li>AYA</li>
+      <li>MURAD</li>
+      <li>HOÀI ANH</li>
+    </ul>
+    <ul>
+      <ol>
+        a
+      </ol>
+      <ol>
+        b
+      </ol>
+      <ol>
+        c
+      </ol>
+      <ol>
+        d
+      </ol>
+    </ul>
+    <table border="1">
+      <tr>
+        <th>Nhập ID</th>
+        <th>tên</th>
+        <th>địa chỉ</th>
+        <th>giới tính</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>lukaku</td>
+        <td>hn</td>
+        <td>nam</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>lukaku</td>
+        <td>hn</td>
+        <td>nam</td>
+      </tr>
+    </table>
+  </body>
+</html>
